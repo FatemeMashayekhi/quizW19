@@ -1,0 +1,12 @@
+{
+  "list": [
+    {
+      "action": "study",
+      "id": 1
+    },
+    {
+      "action": "work",
+      "id": 2
+    }
+  ]
+}

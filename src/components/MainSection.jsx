@@ -1,3 +1,5 @@
+import TodoList from "./TodoList";
+
 export default function MainSection() {
   return (
     <>
@@ -13,6 +15,7 @@ export default function MainSection() {
             Add
           </button>
         </div>
+        <TodoList />
       </div>
     </>
   );
